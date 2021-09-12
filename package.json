@@ -1,0 +1,25 @@
+{
+  "name": "Team-Profile_Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenryan183/Team-Profile_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenryan183/Team-Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/stephenryan183/Team-Profile_Generator#readme"
+}
